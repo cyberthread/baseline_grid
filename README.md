@@ -30,4 +30,3 @@ In this exercise we will practice the following:
 - [HTML Validator](https://validator.w3.org/)
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - [CSS-Tricks CSS Property Almanac](https://css-tricks.com/almanac/properties/)
-- See videos assigned on Box Model, Typographic Rhythm, and Implementing Baseline Grid in CSS
