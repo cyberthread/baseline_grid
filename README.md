@@ -15,7 +15,6 @@ In this exercise we will practice the following:
   - Choose one of the following font stacks to implement in your site:
     - "Times New Roman", Times, serif
     - Garamond, serif
-    - Arial, Helvetica, sans-serif
     - Tahoma, Verdana, sans-serif
   - Set the default font-family, font-size, line-height, font-weight, and font style. 
   - Control the line-length of your paragraphs by setting the max-width for main.
